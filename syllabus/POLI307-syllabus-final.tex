@@ -1,0 +1,77 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue,
+            anchorcolor=blue]{hyperref}
+\usepackage{natbib}
+\usepackage{bibentry}
+\setcounter{secnumdepth}{0}
+\usepackage{datetime}
+\usepackage{advdate}
+\usepackage{fontawesome}
+\newdateformat{syldate}{\shortmonthname[{\THEMONTH}] \THEDAY}
+\newsavebox{\TUESDAY}\savebox{\TUESDAY}{Tue}% Tuesday
+
+\newcommand{\week}{%
+  \paragraph*{\syldate{\today}:}% Set heading \quad #1
+  \ifdim\wd1=\wd\TUESDAY
+  \AdvanceDate[2]
+  \else
+  \AdvanceDate[7]
+  \fi%
+}
+
+
+\begin{document}
+
+\begin{center}
+\bigskip
+
+% course title
+{\Large{\bf{Environmental Policy}}}
+
+% course number
+\textsc{POLI 307}
+
+% semester 
+\textsc{Spring 2022}
+
+\vspace{0.15in}
+
+% meeting time and location 
+\textsc{Maybank 316 } \\
+\textsc{12:15PM - 1:30PM TR}  
+\end{center}
+
+\vspace{0.25in}
+
+\faMale \hspace{0.005in} Dr. Matthew Nowlin, PhD
+
+\vspace{0.05in}
+\faExternalLink \hspace{0.005in} \href{https://www.matthewcnowlin.com/}{\underline{matthewcnowlin.com}} 
+
+\vspace{0.05in}
+\faEnvelopeO \hspace{0.005in} \href{mailto:nowlinmc@cofc.edu}{\underline{nowlinmc@cofc.edu}} 
+
+\vspace{0.05in}
+\faCommentsO \hspace{0.005in} \textbf{Office hours:} \href{https://calendly.com/nowlinmc/meetings}{\underline{By appointment}} (on Zoom)
+
+\setlength{\unitlength}{1in}
+\begin{picture}(6,.1) 
+\put(0,0) {\line(1,0){6.25}}
+\vspace{-1in}         
+\end{picture}
+
+
+\input{syllabus-body.tex}
+
+\input{syllabus-schedule.tex}
+
+\input{important-info.tex}
+  
+\end{document}

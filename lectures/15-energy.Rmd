@@ -1,0 +1,512 @@
+---
+title: "Energy"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/ath-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Energy and Climate Change
+
+.pull-left[
+<figure>
+  <img src="sticker.png" width="80%">
+</figure>
+
+]
+
+.pull-right[
+
+**POLI 307: Environmental Policy**
+
+**Spring 2021**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+
+---
+
+class: title title-2
+
+# Topic Overview
+
+.pull-left[
+**Quick Climate Science Overview** 
+* It's happening, it's us, it's bad 
+
+**Energy**
+* Sources 
+* Policy 
+
+]
+
+.pull-right[
+</br>
+<figure>
+<center>
+  <img src="img/better.jpeg" width="%">
+</figure>
+]
+
+---
+
+class: title title-2
+
+# Environmental Impacts 
+
+_**No sector of human activity impacts the environment more pervasively than the production and use of energy**: coal and uranium mining, oil and gas extraction, rivers dammed for hydroelectric power, air pollution and global warming from fossil fuel combustion, risks of nuclear waste management, and others_
+
+--
+
+**Fossil Fuels** 
+
+.pull-left[
+* Air pollution 
+* Hazardous wastes 
+* Land disturbances
+]
+
+.pull-right[
+* Ecosystem impacts 
+* Oil spills 
+* **Climate change**
+]
+
+
+
+---
+
+class: title title-2
+
+# Environmental Impacts 
+
+**Climate change**
+
+_A long-term change in the average weather patterns that have come to define Earth’s local, regional, and global climates. These changes have a broad range of observed effects that are synonymous with the term_ 
+
+--
+
+* "Long-term" = 30 years 
+* Climate vs. weather 
+* Climate change vs. global warming
+
+---
+
+<figure>
+  <img src="img/change-warming.png" width="%">
+</figure>
+
+---
+
+background-image: url(https://media.giphy.com/media/1lwtquKquRLGwFAQVU/giphy.gif)
+background-position: 50% 50%
+background-size: 80%
+class: center, bottom, fullscale
+
+---
+
+class: title title-2
+
+# Climate Science 
+
+.pull-left[
+**It's Happening**
+
+_The planet's average surface temperature has risen about 1.18 degrees Celsius  (2.12 degrees Fahrenheit) since the late 19th century_ 
+
+-NASA
+]
+
+.pull-right[
+</br>
+<figure>
+<center>
+  <img src="img/globaltemps.jpg" width="">
+</figure>
+]
+
+---
+
+class: title title-2
+
+# Climate Science 
+
+.pull-left[
+**It's Us** 
+
+_Anthropogenic forcing_
+
+* Human factors associated with 100%+ of observed warming 
+
+* Increases of $\text{CO}_2$ since the industrial revolution  
+
+
+]
+
+.pull-right[
+<figure>
+<center>
+  <img src="img/forcing.jpg" width="80%">
+  <img src="img/co2.png" width="80%">
+</figure>
+]
+
+
+---
+
+class: title title-2
+
+# Climate Science 
+
+## It Has Serious Consequences 
+
+.pull-left[
+**Increasing Temperatures** 
+* 19 of the 20 warmest years have all occurred since 2001
+* 2016 and 2020 warmest years on record
+]
+
+--
+
+.pull-right[
+**Precipitation Patterns** 
+
+* Average US precipitation has increased since 1900
+* A warmer atmosphere can hold more water vapor 
+* Increased drought
+]
+
+---
+
+class: title title-2
+
+# Climate Science 
+
+## It Has Serious Consequences 
+
+.pull-left[
+**Hurricanes** 
+* Stronger and more intense 
+* Hurricane Harvey (2017) and Hurricane Florence (2018) rainfall  
+]
+
+--
+
+.pull-right[
+**Sea Level Rise** 
+* Projected to be 1 to 4 feet by 2100
+
+**Environmental Justice** 
+* Disproportionate impacts 
+]
+
+---
+
+class: title title-2
+
+# US Greenhouse Gas Emissions 
+
+<figure>
+<center>
+  <img src="img/ghg.png" width="%">
+</figure>
+
+---
+
+class: title title-2
+
+# Energy Production
+
+<figure>
+<center>
+  <img src="img/energyP.png" width="%">
+</figure>
+
+---
+
+class: title title-2
+
+# Energy Consumption
+
+<figure>
+<center>
+  <img src="img/energyC.png" width="%">
+</figure>
+
+---
+
+class: title title-2
+
+# Fossil Fuel Formation 
+
+<figure>
+<center>
+  <img src="img/formation.png" width="85%">
+</figure>
+
+---
+
+class: title title-2
+
+# Fossil Fuel Formation 
+
+<figure>
+<center>
+  <img src="img/coalformation.jpg" width="%">
+</figure>
+
+
+---
+
+class: title title-2
+
+# Electric Power Grid 
+
+.pull-left[
+**Federal Energy Regulatory Commission (FERC)** 
+
+**North American Electric Reliability Corporation (NERC)** 
+]
+
+.pull-right[
+<figure>
+  <img src="img/grid.jpeg" width="150%">
+</figure>
+]
+
+
+---
+
+class: title title-2
+
+# Oil and Petroleum 
+
+
+.pull-left[
+__Crude oil__: a mixture of hydrocarbons that formed from plants and animals that lived millions of years ago
+
+__Petroleum products__: are fuels made from crude oil and other hydrocarbons contained in natural gas
+]
+
+.pull-right[
+<figure>
+  <img src="img/barrel.png" width="%">
+</figure>
+]
+
+---
+
+class: title title-2
+
+# Natural Gas 
+
+.pull-left[
+Natural gas is a fossil energy source that formed deep beneath the earth's surface. Natural gas contains many different compounds. The largest component of natural gas is **methane**, a compound with one carbon atom and four hydrogen atoms (CH4)
+]
+
+.pull-right[
+</br>
+<figure>
+  <img src="img/industry.jpg" width="%">
+</figure>
+]
+
+---
+
+class: title title-2
+
+# Hydrologic Fracturing 
+
+_Involves pumping liquids under high pressure into a well to fracture the rock and allow gas to escape from tiny pockets in the rock_ 
+
+--
+
+**The Fracking Revolution** 
+* Used for natural gas beginning in 2005 
+* Displacing coal and nuclear 
+* Comes largely from private land 
+
+---
+
+class: title title-2
+
+# Coal 
+
+.pull-left[
+Coal is a combustible black or brownish-black sedimentary rock with a high amount of carbon and hydrocarbons. Coal is classified as a nonrenewable energy source because it takes millions of years to form
+]
+
+.pull-right[
+<figure>
+  <img src="img/coalStates.png" width="%">
+</figure>
+]
+
+---
+
+class: title title-2
+
+# Coal 
+
+**A "War on Coal"?** 
+
+--
+
+.pull-left[
+**Production, Consumption, and Exports**
+<figure>
+  <img src="img/coalPC.png" width="%">
+</figure>
+]
+
+--
+
+.pull-right[
+**Coal Jobs** 
+</br>
+</br>
+<figure>
+  <img src="img/coalJobs.png" width="%">
+</figure>
+]
+
+---
+
+class: title title-2
+
+# Nuclear Energy 
+
+.pull-left[
+Nuclear power comes from __nuclear fission__ 
+* In nuclear fission, atoms are split apart to form smaller atoms, releasing energy
+
+* __Uranium__ (U-235)
+]
+
+.pull-right[
+<figure>
+  <img src="img/atom.jpg" width="%">
+</figure>
+]
+
+
+---
+
+
+class: title title-2
+
+# Nuclear Energy 
+
+**Stalled Hope?** 
+
+.pull-left[
+_Too cheap to meter_ 
+* Environmental concerns 
+* Safety concerns 
+* Nuclear waste
+
+**_leading source of electricity generation in South Carolina_**
+]
+
+.pull-right[
+<figure>
+<center>
+  <img src="img/nukeFuel.jpg" width="%">
+</figure>
+]
+
+---
+
+class: title title-2
+
+# Renewable Energy 
+
+.pull-left[
+Renewable energy is energy from sources that are naturally replenishing but flow-limited. They are virtually inexhaustible in duration but limited in the amount of energy that is available per unit of time  
+]
+
+.pull-right[
+<figure>
+  <img src="img/renew.png" width="%">
+</figure>
+]
+
+---
+
+class: title title-2
+
+# Energy Policy 
+
+--
+
+**1970's: Energy Crisis**
+
+* OAPEC Oil Embargo 1973 
+
+--
+
+* Department of Energy 1977 (formerly _Energy Research and Development Administration 1974_)
+
+--
+
+* _National Energy Act 1978_ 
+
+--
+
+* **Iranian Revolution and Iran-Iraq War** 
+
+--
+
+* _Hard path_ vs _soft path_ 
+
+---
+
+class: title title-2
+
+# Energy Policy 
+
+**The Reform Era and Beyond** 
+
+--
+
+**Fossil fuels and free markets**
+* Fossil fuels are cheap 
+
+--
+
+**Increasing renewables** 
+* _American Recovery and Reinvestment Act 2009_ 
+* Renewable Portfolio Standards in states
+
+--
+
+**Green New Deal?** 
+
+
+
+
+
+
