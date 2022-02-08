@@ -4,7 +4,7 @@ author: ""
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["default", "css/ath-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
     seal: false
     nature:
       highlightStyle: github
@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 # Environmental Policymaking
 
 .pull-left[
@@ -37,7 +33,7 @@ xaringanExtra::use_webcam()
 
 **POLI 307: Environmental Policy**
 
-**Spring 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -57,13 +53,17 @@ class: title title-2
 **Collective-Action Problems** 
 
 **Institutions**
+.small[
 * Markets 
 * Governments 
+]
 
 **Environmental Policymaking** 
+.small[
 * Context
 * Process
 * Structural Factors 
+]
 ]
 
 .pull-right[
@@ -76,6 +76,12 @@ class: title title-2
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/CjGvyMZvEhaFUaMp9CKGu?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+quiz q 
+---
+
 class: title title-2
 
 # Collective Action Problems 
@@ -84,7 +90,7 @@ class: title title-2
 
 --
 
-* Individual _benefits_ and Collective _costs_
+* Individual _benefits_ and collective _costs_
 
 --
 
@@ -110,13 +116,9 @@ class: title title-2
 
 --
 
-</br>
-
 **Institutions consist of both informal constraints (sanctions, taboos, customs, traditions, and codes of conduct), and formal rules (constitutions, laws, property rights)** 
 
 --
-
-</br>
 
 **Markets** and **Governments** 
 
@@ -171,9 +173,7 @@ class: center, middle
 
 ---
 
-<figure>
-  <img src="img/figure2.1.png" width="%">
-</figure>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/bS913D3oFnwpIwpcCdAN7?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -261,7 +261,11 @@ class: title title-2
 
 **Current Circumstances**
 * _Focusing events_: Major events that galvanize attention on a particular issue such as a crisis or a disaster
+
+--
 * Public opinion 
+
+--
 * Other priorities  
 
 --
@@ -388,6 +392,10 @@ class: title title-2
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/BX2tXUpL3gaf08db4wKoL?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-2
 
 # The Stages Model 
@@ -477,6 +485,10 @@ class: title title-2
 --
 
 * Who is going to carry out the policy and how are they going to do it? 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/E7jWW3jNjDotLzaLJ3G9P?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 

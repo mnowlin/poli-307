@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 # Evolution of Environmental Policy
 
 .pull-left[
@@ -126,13 +122,34 @@ class: title title-2
 
 class: title title-2
 
-# Preservationalist
+# Preservationist
+
+.pull-left[
+<figure>
+<center>
+  <img src="img/thoreau.jpeg" width="%">
+</figure>
+]
+
+.pull-right[
+.small[_We need the tonic of wildness...At the same time that we are earnest to explore and learn all things, we require that all things be mysterious and unexplorable, that land and sea be indefinitely wild, unsurveyed and unfathomed by us because unfathomable. We can never have enough of nature_
+
+-- Henry David Thoreau, _Walden_, 1854 
+]
+]
+
+
+---
+
+class: title title-2
+
+# Preservationist
 
 .pull-left[
 </br>
 _Man everywhere is a disturbing agent. Wherever he plants his foot, the harmonies of nature are turned to discords_ 
 
--- George Perkins Marsh, _Man and Nature_ 1864
+-- George Perkins Marsh, _Man and Nature_, 1864
 ]
 
 .pull-right[
@@ -147,7 +164,7 @@ _Man everywhere is a disturbing agent. Wherever he plants his foot, the harmonie
 
 class: title title-2
 
-# Preservationalist
+# Preservationist
 
 .pull-left[
 <figure>
@@ -157,11 +174,13 @@ class: title title-2
 ]
 
 .pull-right[
-</br>
-</br>
 _In every walk with nature one receives far more than he seeks_
 
 -- John Muir
+
+**Father of the National Parks** 
+
+**Founded the Sierra Club in 1892**
 
 </br>
 
@@ -187,6 +206,12 @@ class: title title-2
 **Yellowstone National Park Protection Act** (1872)
 * First national park 
 
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/fN9gijXkuy4RJOUvK0VWb?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+quiz question
 ---
 
 class: title title-2
@@ -395,7 +420,7 @@ class: title title-2
 
 # Environmental Legislation 1962-1980
 
-__National Environmental Protection Act (NEPA)__ (1969-1970)
+__National Environmental Policy Act (NEPA)__ (1969-1970)
 
 > .small[to declare a national policy which will encourage productive and enjoyable harmony between man and his environment; to promote efforts which will prevent or eliminate damage to the environment and biosphere and stimulate the health and welfare of man; to enrich the understanding of the ecological systems and natural resources important to the nation; and to establish a Council on Environmental Quality]
 
@@ -405,7 +430,7 @@ class: title title-2
 
 # Environmental Legislation 1962-1980
 
-__National Environmental Protection Act (NEPA)__ (1969-1970)
+__National Environmental Policy Act (NEPA)__ (1969-1970)
 
 * Created the Council of Environmental Quality to advise the president
 
@@ -439,8 +464,6 @@ class: title title-2
 
 # Backlash 
 
-</br>
-
 .pull-left[
 * **Sagebrush Rebellion**: Western states wanted more state and local control of federally owned land for grazing, off-road vehicle use, and other uses
 ]
@@ -453,6 +476,12 @@ class: title title-2
 </figure>
 ]
 
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/QUwFGQfIF5FItKods2wXU?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+???
+quiz q 
 ---
 
 class: title title-2
@@ -513,10 +542,10 @@ class: title title-2
 
 * Weakened institutions 
 
---
-
+<!-- 
 * Climate change 
   * See video on [OAKS](https://lms.cofc.edu) 
+-->
 
 ---
 
