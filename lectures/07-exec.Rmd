@@ -4,7 +4,7 @@ author: ""
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["default", "css/ath-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
     seal: false
     nature:
       highlightStyle: github
@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 # The Executive and Environmental Policy
 
 .pull-left[
@@ -37,7 +33,7 @@ xaringanExtra::use_webcam()
 
 **POLI 307: Environmental Policy**
 
-**Spring 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -110,6 +106,9 @@ class: title title-2
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/CogZakHzFC8J8sJWbr8Hb?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
 
 class: title title-2
 
@@ -220,6 +219,10 @@ class: title title-2
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/yqABQWidtbnMBOhCzWOnU?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-2
 
 # The President 
@@ -263,6 +266,7 @@ Johnson | 4
 Carter | 9
 Clinton | 22 
 Obama | 15
+Biden | 1*
 ]
 
 .pull-right[
@@ -273,7 +277,7 @@ Ford | 2
 Reagan | 3
 HW Bush | 4 
 W Bush | 8
-Trump | 2
+Trump | 6
 ]
 
 ---
@@ -363,6 +367,7 @@ class: title title-2
 
 .pull-right-3[
 **Rollback Advocates**
+* Ford?
 * Reagan 
 * W Bush 
 * Trump 
