@@ -4,7 +4,7 @@ author: ""
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["default", "css/ath-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
     seal: false
     nature:
       highlightStyle: github
@@ -20,11 +20,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
-# The Courts and Environmental Policy
+# The Courts and <br> Environmental Policy
 
 .pull-left[
 <figure>
@@ -37,7 +33,7 @@ xaringanExtra::use_webcam()
 
 **POLI 307: Environmental Policy**
 
-**Spring 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -66,6 +62,7 @@ class: title title-2
 .pull-right[
 </br>
 <figure>
+<center>
   <img src="img/rbg.jpeg" width="%">
 </figure>
 ]
@@ -202,6 +199,10 @@ class: title title-2
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/8K32dzMsuQNihLsndDL8b?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-2
 
 #  The Courts
@@ -276,5 +277,10 @@ class: title title-2
 --
 
 **To be continued ...** 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/3Q4BvgngGqmFNspme3Bj0?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
 
 
