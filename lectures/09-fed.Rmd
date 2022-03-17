@@ -4,7 +4,7 @@ author: ""
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["default", "css/ath-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
     seal: false
     nature:
       highlightStyle: github
@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 # Federalism and Environmental Policy Design
 
 .pull-left[
@@ -37,7 +33,7 @@ xaringanExtra::use_webcam()
 
 **POLI 307: Environmental Policy**
 
-**Spring 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -46,6 +42,12 @@ College of Charleston
 
 ]
 
+???
+announcements: 
+
+infographic due March 31 
+
+Lecture slides will NOT be available for the final 
 
 ---
 
@@ -71,6 +73,10 @@ class: title title-2
   <img src="img/federalism.jpg" width="%">
 </figure>
 ]
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/SRpUsoY7fIQ7c9zqYXdCy?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -180,6 +186,9 @@ class: title title-2
 **State Innovation and Diffusion**
 * States develop policies that are then adopted by other states or the federal government 
 
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/nGOwNMobtLsVOLTck5PYq?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -367,6 +376,10 @@ class: title title-2
 * Mandated ("sticks")
 
 ]
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/uID2NwhilNpRLjGa1dUhi?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
