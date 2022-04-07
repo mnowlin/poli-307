@@ -495,29 +495,6 @@ class: title title-2
 
 # Benefit-Cost Analysis 
 
-.pull-left[
-**Hypothetical (total) benefit and cost curve** 
-<figure>
-  <img src="img/bca1.png" width="%">
-</figure>
-]
-
---
-
-.pull-right[
-**Cost curve of GHG abatement (2007)**
-<figure>
-  <img src="img/cost-curve.jpeg" width="%">
-</figure>
-]
-
-
----
-
-class: title title-2
-
-# Benefit-Cost Analysis 
-
 **Measuring Benefits** 
 
 --
@@ -527,11 +504,19 @@ class: title title-2
 --
 
 **Willingness-to-pay**: What someone will willingly give up in exchange  
- * A way to determine how much a person _values_ a particular good
- * No payments need to be made
- * Preference of individuals without judgment of "values" 
- * **Straightforward for consumer goods, more difficult for other types of goods**
- 
+
+--
+* A way to determine how much a person _values_ a particular good
+
+--
+* No payments need to be made
+
+--
+* Preference of individuals without judgment of "values" 
+
+--
+* **Straightforward for consumer goods, more difficult for other types of goods**
+
 ---
 
 class: title title-2

@@ -4,7 +4,7 @@ author: ""
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["default", "css/ath-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
     seal: false
     nature:
       highlightStyle: github
@@ -20,11 +20,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
-# Pollution Control
+# Pollution <br> Control
 
 .pull-left[
 <figure>
@@ -37,7 +33,7 @@ xaringanExtra::use_webcam()
 
 **POLI 307: Environmental Policy**
 
-**Spring 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -80,13 +76,13 @@ class: title title-2
 
 # Air Pollution 
 
-</br>
 **Air pollution is a mix of particles and gases that can reach harmful concentrations both outside and indoors. Its effects can range from higher disease risks to rising temperatures. Soot, smoke, mold, pollen, methane, and carbon dioxide are a just few examples of common pollutants.** 
 
 -- _National Geographic_ 
 
+---
 
-.small[_Watch short video on OAKS_]
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/5Q1FHMrljClRlEvABQYbk?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -230,7 +226,14 @@ __Particulate Matter__ $\text{PM}_{10}$ and $\text{PM}_{2.5}$
   * _Causes_: construction sites, unpaved roads, smokestacks, fires  
   * _Effects_: respiratory problems, asthma 
 
+???
+10 micrometers 
 
+2.5 micrometers 
+
+human hair is 50-70 
+
+fine beach sand is 90 
 ---
 
 class: title title-2
@@ -305,6 +308,10 @@ class: title title-2
   <img src="img/standards.png" width="55%">
 </figure>
 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/97iQVKLb5yQQQ4vtyjN0d?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -390,8 +397,10 @@ class: title title-2
 
 # Water Pollution 
 
-</br>
 **Water pollution is the addition of harmful chemicals to natural water. Sources of water pollution in the United States include industrial waste, run-off from fields treated with chemical fertilizers, and run-off from areas that have been mined.** 
+
+.small[-- Salzman, James, and Barton H. Thompson Jr. 2014. Environmental Law and Policy. 4th ed. St. Paul, MN: Foundation Press.]
+
 
 ---
 
@@ -416,6 +425,10 @@ class: title title-2
 </figure>
 ]
 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/0eBU9ygdJUonRZZ0Abamx?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
