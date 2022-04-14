@@ -4,7 +4,7 @@ author: ""
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["default", "css/ath-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
     seal: false
     nature:
       highlightStyle: github
@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 # Public Lands
 
 .pull-left[
@@ -37,7 +33,7 @@ xaringanExtra::use_webcam()
 
 **POLI 307: Environmental Policy**
 
-**Spring 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -124,6 +120,10 @@ _Benefits people obtain from ecosystems_
 --
 
 **Benefits can be measured by _willingness-to-pay_** 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/15qMQEpI8WxzcYBVeOAeM?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -264,6 +264,10 @@ Gadsden Purchase (1853): _Parts of southern Arizona and south-west New Mexico_
 
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/2zjW8yV9rH3RdlrJzM7vc?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-2
 
 # Public Lands 
@@ -383,21 +387,15 @@ class: title title-2
 
 **Environmental Policy Eras**
 
-**The Endangered Species Act 1966 / 1973** 
+**Environmentalism Era: 1962-1980** 
 
-.pull-left[
-List endangered or threatened species of plants and animals
+**The Endangered Species Act 1973** 
 
-Prevents _taking_ of species or destruction of their _critical habitat_ 
+* List endangered or threatened species of plants and animals
 
+--
 
-]
-
-.pull-right[
-<figure>
-  <img src="img/tiger-king.jpeg" width="%">
-</figure>
-]
+* Prevents _taking_ of species or destruction of their _critical habitat_ 
 
 ---
 
@@ -417,7 +415,6 @@ class: title title-2
 * Ranchers 
 * Mining companies 
 * Western state governments 
-* Property _inholders_ in and around national parks
 ]
 
 .pull-right[
@@ -480,6 +477,10 @@ __Mission__: _Sustain the health, diversity, and productivity of the nation’s 
   <img src="img/smokey.jpg" width="%">
 </figure>
 ]
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/nWYWTR8saXtWtKfh87iUj?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 

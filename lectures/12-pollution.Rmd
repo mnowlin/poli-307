@@ -587,6 +587,10 @@ class: title title-2
   
 ---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/A0xYL2FZOeiiFSluiIsTa?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+---
+
 class: title title-2
 
 # Implementation 
@@ -601,7 +605,7 @@ class: title title-2
 
 **Information Disclosures** 
 * Compliance reporting
-* **Toxics Release Inventory** 
+* **Toxic Release Inventory** 
 
 ---
 
