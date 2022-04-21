@@ -4,7 +4,7 @@ author: ""
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["default", "css/ath-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
     seal: false
     nature:
       highlightStyle: github
@@ -20,10 +20,6 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE,
                       fig.retina = 3, fig.align = "center")
 ```
 
-```{r xaringanExtra, echo=FALSE}
-xaringanExtra::use_webcam()
-```
-
 # Energy and Climate Change
 
 .pull-left[
@@ -37,7 +33,7 @@ xaringanExtra::use_webcam()
 
 **POLI 307: Environmental Policy**
 
-**Spring 2021**
+**Spring 2022**
 
 .light[Matthew Nowlin, PhD<br>
 Department of Political Science<br>
@@ -96,6 +92,10 @@ _**No sector of human activity impacts the environment more pervasively than the
 ]
 
 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/OKFdwv4CstC31otUDwXG1?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -238,12 +238,24 @@ class: title title-2
 
 class: title title-2
 
+# Course Evaluations 
+
+<figure>
+<center>
+  <img src="img/bern.jpg" width="60%">
+</figure>
+
+---
+
+class: title title-2
+
 # Energy Production
 
 <figure>
 <center>
   <img src="img/energyP.png" width="%">
 </figure>
+
 
 ---
 
@@ -255,6 +267,7 @@ class: title title-2
 <center>
   <img src="img/energyC.png" width="%">
 </figure>
+
 
 ---
 
@@ -278,6 +291,10 @@ class: title title-2
   <img src="img/coalformation.jpg" width="%">
 </figure>
 
+
+---
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/R2GaMiLyoOl3w2TV83CLG?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 ---
 
@@ -427,8 +444,6 @@ _Too cheap to meter_
 * Environmental concerns 
 * Safety concerns 
 * Nuclear waste
-
-**_leading source of electricity generation in South Carolina_**
 ]
 
 .pull-right[
@@ -449,6 +464,7 @@ Renewable energy is energy from sources that are naturally replenishing but flow
 ]
 
 .pull-right[
+<br>
 <figure>
   <img src="img/renew.png" width="%">
 </figure>
@@ -505,7 +521,9 @@ class: title title-2
 
 **Green New Deal?** 
 
+---
 
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/BD09LlHVxIUMWrEgPqOOL?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 
 
